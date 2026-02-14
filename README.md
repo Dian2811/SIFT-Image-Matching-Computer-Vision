@@ -14,4 +14,4 @@ Ditemukan 541 titik kecocokan valid pada objek sampul buku.
 ## Cara Menjalankan
 1. Clone repositori ini.
 2. Pastikan library OpenCV, NumPy, dan Matplotlib terpasang.
-3. Jalankan file `notebook_tugas.ipynb`.
+3. Jalankan file.

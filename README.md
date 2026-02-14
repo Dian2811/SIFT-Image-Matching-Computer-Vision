@@ -8,7 +8,7 @@ Proyek ini adalah Final Project mata kuliah Visi Komputer yang bertujuan mengimp
 - Penerapan Lowe's Ratio Test untuk akurasi hasil.
 
 ## Hasil Eksperimen
-![Hasil Matching](hasil_matching_final.jpg)
+![Hasil Matching](hasil_matching_final.png)
 Ditemukan 541 titik kecocokan valid pada objek sampul buku.
 
 ## Cara Menjalankan
